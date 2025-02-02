@@ -1,3 +1,8 @@
+/*
+write a program that shows the implementation of 
+           null pointer exception 
+           array index out of bound exception using try catch finally blocks
+*/
 
 public class ExceptionHandling{
 public static void handlenullpointer(){
